@@ -8,7 +8,7 @@
 // @grant       none
 // @run-at			document-end
 // @license			GPL v3 or later version
-// @downloadURL		https://raw.githubusercontent.com/alexisju/indiegogo-zimbra-fixer/master/indiegogo-zimbra-fixer.js
+// @downloadURL		https://raw.githubusercontent.com/alexisju/indiegogo-zimbra-fixer/master/indiegogo-zimbra-fixer.user.js.js
 // ==/UserScript==
 
 
