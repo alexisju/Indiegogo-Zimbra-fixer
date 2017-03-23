@@ -12,4 +12,4 @@
 // ==/UserScript==
 
 
-document.body.innerHTML = document.body.innerHTML.replace('pnsrc','src');
+document.body.innerHTML = document.body.innerHTML.replace(/pnsrc/gi,'src');
