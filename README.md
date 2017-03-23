@@ -8,6 +8,6 @@ This script fix that bug.
 
 # Use
 
-1. You need to have Greasmonkey addon installed on your browser (more info : https://openuserjs.org/about/Userscript-Beginners-HOWTO)
-2. Download and install this script (just click here : https://raw.githubusercontent.com/alexisju/indiegogo-zimbra-fixer/master/indiegogo-zimbra-fixer.user.js)
+1. You need to have Greasemonkey addon installed on your browser - More info : https://openuserjs.org/about/Userscript-Beginners-HOWTO)
+2. Download and install this script - Just click here : https://raw.githubusercontent.com/alexisju/indiegogo-zimbra-fixer/master/indiegogo-zimbra-fixer.user.js)
 3. Add the domain of your Zimbra webmail (by default it is only configured for https://webmail.web4all.fr/)
