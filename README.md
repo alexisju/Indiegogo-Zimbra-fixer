@@ -9,5 +9,5 @@ This script fix that bug.
 # Use
 
 1. You need to have Greasmonkey addon installed on your browser (more info : https://greasyfork.org/)
-2. Download and add this script
+2. Download and install this script (just click here : https://raw.githubusercontent.com/alexisju/indiegogo-zimbra-fixer/master/indiegogo-zimbra-fixer.js)
 3. Add the domain of your Zimbra webmail (by default it is only configured for https://webmail.web4all.fr/)
